@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "google-colab-mcp": {
+      "command": "python",
+      "args": [
+        "-m", 
+        "mcp_colab_server.server"
+      ],
+      "cwd": "c:\\Users\\tpoyr\\OneDrive\\Desktop\\google-colab-mcp"
+    }
+  }
+}

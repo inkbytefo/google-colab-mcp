@@ -1,0 +1,14 @@
+include README.md
+include LICENSE
+include requirements.txt
+include pyproject.toml
+recursive-include src/mcp_colab_server/templates *.json
+recursive-include src/mcp_colab_server/config *.json
+exclude tests/*
+exclude .git*
+exclude .kiro*
+exclude *.pyc
+exclude __pycache__
+exclude build/*
+exclude dist/*
+exclude *.egg-info/*
