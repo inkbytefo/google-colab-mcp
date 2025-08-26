@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "google-colab-mcp"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
-    {name = "inkbytefo", email = "contact@inkbytefo.dev"},
+    {name = "inkbytefo", email = "inkbytefo@gmail.com"},
 ]
 description = "Model Context Protocol server for seamless Google Colab integration with AI assistants"
 readme = "README.md"

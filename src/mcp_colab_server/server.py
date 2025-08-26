@@ -1510,7 +1510,7 @@ class ColabMCPServer:
                     write_stream,
                     InitializationOptions(
                         server_name="google-colab-mcp",
-                        server_version="1.0.0",
+                        server_version="1.0.1",
                         capabilities=server_capabilities
                     )
                 )
@@ -1554,7 +1554,7 @@ def main():
     parser = argparse.ArgumentParser(description="MCP Colab Server - Google Colab integration for AI assistants")
     parser.add_argument("--config", help="Path to configuration file")
     parser.add_argument("--setup", action="store_true", help="Run initial setup")
-    parser.add_argument("--version", action="version", version="google-colab-mcp 1.0.0")
+    parser.add_argument("--version", action="version", version="google-colab-mcp 1.0.1")
     
     args = parser.parse_args()
     

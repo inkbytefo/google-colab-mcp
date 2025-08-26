@@ -426,7 +426,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Project Information:**
 - **Author:** inkbytefo
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Repository:** [github.com/inkbytefo/google-colab-mcp](https://github.com/inkbytefo/google-colab-mcp)
 - **License:** MIT
 - **Python Version:** 3.8+
